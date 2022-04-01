@@ -2,4 +2,6 @@ Esto es un archivo plano general
 
 Que se necesita revisar para el control de versiones, para intentar los ejemplos
 
-Creasistemas
+Creasistemas 
+
+Mañana nos enfocaremos en los cursos de GIT
